@@ -1,0 +1,422 @@
+{
+    "ninjas": [
+        {
+            "_id": "591b03812ad1404aa02233f3",
+            "age": 23,
+            "eyeColor": "green",
+            "name": {
+                "first": "Mcknight",
+                "last": "Keller"
+            },
+            "gender": "male",
+            "clan": "KYAGORO"
+        },
+        {
+            "_id": "591b03818bd382681e5e014d",
+            "age": 20,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Claudia",
+                "last": "Fuentes"
+            },
+            "gender": "female",
+            "clan": "UNIA"
+        },
+        {
+            "_id": "591b0381947522150b2b313a",
+            "age": 28,
+            "eyeColor": "green",
+            "name": {
+                "first": "Linda",
+                "last": "Dale"
+            },
+            "gender": "female",
+            "clan": "COMTENT"
+        },
+        {
+            "_id": "591b03814a75807b69e12636",
+            "age": 28,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Pearl",
+                "last": "Frost"
+            },
+            "gender": "female",
+            "clan": "SILODYNE"
+        },
+        {
+            "_id": "591b038123dc2de01903d4d5",
+            "age": 31,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Finch",
+                "last": "Mccoy"
+            },
+            "gender": "male",
+            "clan": "ETERNIS"
+        },
+        {
+            "_id": "591b0381507a1809ced043ec",
+            "age": 27,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Stout",
+                "last": "Rodriquez"
+            },
+            "gender": "male",
+            "clan": "EWAVES"
+        },
+        {
+            "_id": "591b03811d9323a40449ce70",
+            "age": 23,
+            "eyeColor": "green",
+            "name": {
+                "first": "Alyssa",
+                "last": "Todd"
+            },
+            "gender": "female",
+            "clan": "ORBAXTER"
+        },
+        {
+            "_id": "591b03817c1a1f3167d76485",
+            "age": 23,
+            "eyeColor": "green",
+            "name": {
+                "first": "Francine",
+                "last": "Galloway"
+            },
+            "gender": "female",
+            "clan": "ENERFORCE"
+        },
+        {
+            "_id": "591b0381743ff45e08156cbb",
+            "age": 36,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Marisol",
+                "last": "Miles"
+            },
+            "gender": "female",
+            "clan": "ROCKYARD"
+        },
+        {
+            "_id": "591b0381b8171e766875dd63",
+            "age": 32,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Velazquez",
+                "last": "Lane"
+            },
+            "gender": "male",
+            "clan": "CAXT"
+        },
+        {
+            "_id": "591b03811cd1486dcfa0924d",
+            "age": 31,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Fanny",
+                "last": "Wilkinson"
+            },
+            "gender": "female",
+            "clan": "ISOSTREAM"
+        },
+        {
+            "_id": "591b0381ea31cbb358c0ff09",
+            "age": 23,
+            "eyeColor": "green",
+            "name": {
+                "first": "Hester",
+                "last": "Rush"
+            },
+            "gender": "male",
+            "clan": "FURNITECH"
+        },
+        {
+            "_id": "591b038155e0daa630a90cc5",
+            "age": 35,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Shelley",
+                "last": "Rutledge"
+            },
+            "gender": "female",
+            "clan": "SULTRAX"
+        },
+        {
+            "_id": "591b03818d41c74b8534e313",
+            "age": 24,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Dunlap",
+                "last": "Golden"
+            },
+            "gender": "male",
+            "clan": "MALATHION"
+        },
+        {
+            "_id": "591b038192c7f5831f2dd9a2",
+            "age": 22,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Patterson",
+                "last": "Case"
+            },
+            "gender": "male",
+            "clan": "DARWINIUM"
+        },
+        {
+            "_id": "591b0381cc759727e81792ae",
+            "age": 23,
+            "eyeColor": "green",
+            "name": {
+                "first": "Esmeralda",
+                "last": "Vasquez"
+            },
+            "gender": "female",
+            "clan": "MEDALERT"
+        },
+        {
+            "_id": "591b03817139655388a11736",
+            "age": 24,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Luann",
+                "last": "Hutchinson"
+            },
+            "gender": "female",
+            "clan": "GENMEX"
+        },
+        {
+            "_id": "591b0381cb4dddadb632317c",
+            "age": 40,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Puckett",
+                "last": "Kent"
+            },
+            "gender": "male",
+            "clan": "ENERSAVE"
+        },
+        {
+            "_id": "591b0381b36555cfe00d0c9d",
+            "age": 21,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Holland",
+                "last": "Howard"
+            },
+            "gender": "male",
+            "clan": "GEEKULAR"
+        },
+        {
+            "_id": "591b0381bce1f9fd80621b0d",
+            "age": 24,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Ochoa",
+                "last": "Hale"
+            },
+            "gender": "male",
+            "clan": "GEEKWAGON"
+        },
+        {
+            "_id": "591b03818d753639a7fd9734",
+            "age": 29,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Blanca",
+                "last": "Diaz"
+            },
+            "gender": "female",
+            "clan": "OPTICON"
+        },
+        {
+            "_id": "591b03819b25c2b973c73559",
+            "age": 24,
+            "eyeColor": "green",
+            "name": {
+                "first": "Cheri",
+                "last": "Jones"
+            },
+            "gender": "female",
+            "clan": "GEOLOGIX"
+        },
+        {
+            "_id": "591b038197e9d5e355f9d0e0",
+            "age": 25,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Guadalupe",
+                "last": "Bennett"
+            },
+            "gender": "female",
+            "clan": "ZOUNDS"
+        },
+        {
+            "_id": "591b0381f94976eecddc0378",
+            "age": 39,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Kasey",
+                "last": "Patel"
+            },
+            "gender": "female",
+            "clan": "INQUALA"
+        },
+        {
+            "_id": "591b0381f1cdf8a4363f99a0",
+            "age": 40,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Ginger",
+                "last": "Green"
+            },
+            "gender": "female",
+            "clan": "INSECTUS"
+        },
+        {
+            "_id": "591b03812cee2f03e37babad",
+            "age": 25,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Connie",
+                "last": "Nelson"
+            },
+            "gender": "female",
+            "clan": "TECHMANIA"
+        },
+        {
+            "_id": "591b0381d7fe267a8e8538bd",
+            "age": 25,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Patti",
+                "last": "Holloway"
+            },
+            "gender": "female",
+            "clan": "NAXDIS"
+        },
+        {
+            "_id": "591b038114bc3fb6383df040",
+            "age": 21,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Shawna",
+                "last": "Hess"
+            },
+            "gender": "female",
+            "clan": "NETPLODE"
+        },
+        {
+            "_id": "591b0381ad16aae90fdd3580",
+            "age": 20,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Cantu",
+                "last": "Norman"
+            },
+            "gender": "male",
+            "clan": "ZOXY"
+        },
+        {
+            "_id": "591b0381050c552ea2b533ca",
+            "age": 39,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Opal",
+                "last": "Buchanan"
+            },
+            "gender": "female",
+            "clan": "RODEOLOGY"
+        },
+        {
+            "_id": "591b0381a79c16f66aa7f350",
+            "age": 33,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Sonya",
+                "last": "Ross"
+            },
+            "gender": "female",
+            "clan": "PANZENT"
+        },
+        {
+            "_id": "591b0381bf74bade6fdad9d1",
+            "age": 38,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Tabatha",
+                "last": "Rosales"
+            },
+            "gender": "female",
+            "clan": "SEQUITUR"
+        },
+        {
+            "_id": "591b03816406725a3009226c",
+            "age": 20,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Haynes",
+                "last": "Zamora"
+            },
+            "gender": "male",
+            "clan": "PLASMOSIS"
+        },
+        {
+            "_id": "591b0381254b5722e70d9868",
+            "age": 26,
+            "eyeColor": "green",
+            "name": {
+                "first": "Audrey",
+                "last": "Cash"
+            },
+            "gender": "female",
+            "clan": "ZILLADYNE"
+        },
+        {
+            "_id": "591b0381a25f170792b04840",
+            "age": 29,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Phoebe",
+                "last": "Dudley"
+            },
+            "gender": "female",
+            "clan": "COMTRAIL"
+        },
+        {
+            "_id": "591b0381dbbbcf9bb632c42a",
+            "age": 32,
+            "eyeColor": "blue",
+            "name": {
+                "first": "Irwin",
+                "last": "Wells"
+            },
+            "gender": "male",
+            "clan": "VERAQ"
+        },
+        {
+            "_id": "591b0381f44ce3230104c8bd",
+            "age": 23,
+            "eyeColor": "green",
+            "name": {
+                "first": "Alvarado",
+                "last": "Jackson"
+            },
+            "gender": "male",
+            "clan": "EMTRAC"
+        },
+        {
+            "_id": "591b03816f472697a9056c92",
+            "age": 38,
+            "eyeColor": "brown",
+            "name": {
+                "first": "Parsons",
+                "last": "Lara"
+            },
+            "gender": "male",
+            "clan": "BALOOBA"
+        }
+    ]
+}
